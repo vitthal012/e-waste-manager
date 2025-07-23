@@ -73,9 +73,10 @@ E-Waste Wise provides a simple web interface to:
 *   Refine UI/UX further.
 
 ## Contact
-
+[Vitthal Srivastava] - [https://github.com/vitthal012]
 [Dev Marwah] - [https://github.com/DevSquaared]
 
 Project Link: [https://github.com/DevSquaared/e-waste_wise]
+
 
 ---
